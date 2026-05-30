@@ -1,6 +1,6 @@
 # Ayan Kumar Aditya
 
-**Neural - Paradigm · Systems & Data Developer · Open to SWE Roles**
+**Neural - Paradigm · Open to SWE Roles**
 
 📧 ayanaaditya04@gmail.com &nbsp;·&nbsp; 📞 +91 83492 30434 &nbsp;·&nbsp; 📍 Bengaluru &nbsp;·&nbsp; [LinkedIn](#)
 
