@@ -25,7 +25,7 @@ ML model trained on 5 years of NIFTY 50 data for directional price forecasting.
 
 ## Experience
 
-**JP Morgan Chase & Co.** — Software Engineering Virtual Experience *(Forage, 2024)*  
+**JP Morgan Chase & Co.** — Software Engineering Virtual Experience *(Forage)*  
 Built a real-time stock price data feed and live trading dashboard · 100% sprint completion across 3 Agile cycles
 
 ---
