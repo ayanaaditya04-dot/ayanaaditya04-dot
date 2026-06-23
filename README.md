@@ -34,7 +34,7 @@ Built a real-time stock price data feed and live trading dashboard · 100% sprin
 
 | Languages | Tools | Concepts |
 |-----------|-------|----------|
-| C++, SQL, | Git, AWS Fundamentals | DSA, Computer Networks, OOP, Multi-threading |
+| C++, SQL | Git, AWS Fundamentals | DSA, Computer Networks, OOP, Multi-threading |
 
 ---
 
