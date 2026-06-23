@@ -17,7 +17,7 @@ Currently a fresher with strong fundamentals in **C++**, **DSA**, and **Computer
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
 
-**[Quantitative Equity Prediction Model](https://github.com/ayanaaditya04-dot)** — `Python` `XGBoost` `SQL`  
+**[Quantitative Equity Prediction Model](https://github.com/ayanaaditya04-dot)** — `C++` `XGBoost` `SQL`  `claude code`  
 ML model trained on 5 years of NIFTY 50 data for directional price forecasting.  
 → 63.4% out-of-sample accuracy · outperforms buy-and-hold · validated with Sharpe Ratio & max drawdown
 
@@ -34,7 +34,7 @@ Built a real-time stock price data feed and live trading dashboard · 100% sprin
 
 | Languages | Tools | Concepts |
 |-----------|-------|----------|
-| C++, SQL, Python | Git, AWS Fundamentals | DSA, Computer Networks, OOP, Multi-threading |
+| C++, SQL, | Git, AWS Fundamentals | DSA, Computer Networks, OOP, Multi-threading |
 
 ---
 
