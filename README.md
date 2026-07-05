@@ -13,7 +13,7 @@ Currently a fresher with strong fundamentals in **C++**, **DSA**, and **Computer
 
 ## Projects
 
-**[EyeLiner," an advanced deep learning pipeline designed for medical image registration ]**
+**[EyeLiner, an advanced deep learning pipeline designed for medical image registration ]**
 
 **[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** — `C++` `POSIX Threads` `PCAP`  
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
