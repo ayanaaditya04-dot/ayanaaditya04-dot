@@ -13,13 +13,13 @@ Currently a fresher with strong fundamentals in **C++**, **DSA**, and **Computer
 
 ## Projects
 
-**[Adversarial-PCG-SLM: Spatial Reasoning Framework]()**
+**[Adversarial-PCG-SLM: Spatial Reasoning Framework](https://github.com/ayanaaditya04-dot/Adversarial-pcg-SLM)** `fine tuning ` `Hugging face`  `sql` 
 
-**[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** — `C++` `POSIX Threads` `PCAP`  
+**[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** — `C++` `Claude code` 
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
 
-**[Quantitative Equity Prediction Model](https://github.com/ayanaaditya04-dot)** — `C++` `XGBoost` `SQL`  `claude code`  
+**[Quantitative Equity Prediction Model](https://github.com/ayanaaditya04-dot)** — `C++` `SQL`  `claude code`  
 ML model trained on 5 years of NIFTY 50 data for directional price forecasting.  
 → 63.4% out-of-sample accuracy · outperforms buy-and-hold · validated with Sharpe Ratio & max drawdown
 
