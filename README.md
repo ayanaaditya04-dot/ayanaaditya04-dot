@@ -14,6 +14,7 @@ Currently a fresher with strong fundamentals in **C++**, **DSA**, and **Computer
 ## Projects
 
 **[Adversarial-PCG-SLM: Spatial Reasoning Framework](https://github.com/ayanaaditya04-dot/Adversarial-pcg-SLM)** `fine tuning ` `Hugging face`  `sql` 
+In this framework, the SLM acts as the "Test Subject" or the "Navigational Agent." Instead of answering standard text-based trivia, the SLM is fed a procedurally generated 2D matrix (a maze) and asked to navigate from a start point (0,0) to an exit coordinate. Our objective is to rigorously test its spatial reasoning limits, map its topological failure points, and eventually use Chain-of-Thought (CoT) state-tracking and synthetic data to improve its navigational accuracy.
 
 **[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** — `C++` `Claude code` 
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
