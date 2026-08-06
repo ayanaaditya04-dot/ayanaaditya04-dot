@@ -20,9 +20,6 @@ In this framework, the SLM acts as the "Test Subject" or the "Navigational Agent
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
 
-**[Quantitative Equity Prediction Model](https://github.com/ayanaaditya04-dot)** — `C++` `SQL`  `claude code`  
-ML model trained on 5 years of NIFTY 50 data for directional price forecasting.  
-→ 63.4% out-of-sample accuracy · outperforms buy-and-hold · validated with Sharpe Ratio & max drawdown
 
 ---
 
