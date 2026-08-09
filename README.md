@@ -20,7 +20,12 @@ In this framework, the SLM acts as the "Test Subject" or the "Navigational Agent
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
 
+**[VectorDB — Build a Vector Database from Scratch in C+](https://github.com/ayanaaditya04-dot/VectorDB-Build-a-Vector-Database-from-Scratch-in-C-)** — `C++` `Claude code` 
+A fully working Vector Database built from scratch in C++ with a web UI.
+Implements HNSW, KD-Tree, and Brute Force search algorithms side-by-side, plus a RAG pipeline powered by a local LLM via Ollama.
 
+**[UPI Offline Mesh — Demo](https://github.com/ayanaaditya04-dot/UPI-Offline-Mesh-Demo)** — `C++` `Claude code` 
+A Spring Boot backend that demonstrates offline UPI payments routed through a Bluetooth-style mesh network. You're in a basement with zero connectivity. You send your friend ₹500. Your phone encrypts the payment, broadcasts it to nearby phones, and the packet hops device-to-device until some phone walks outside, gets 4G, and silently uploads it to this backend. The backend decrypts, deduplicates, and settles.
 ---
 
 ## Experience
