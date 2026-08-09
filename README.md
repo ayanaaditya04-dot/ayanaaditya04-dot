@@ -13,20 +13,23 @@ Currently a fresher with strong fundamentals in **C++**, **DSA**, and **Computer
 
 ## Projects
 
-**[Adversarial-PCG-SLM: Spatial Reasoning Framework](https://github.com/ayanaaditya04-dot/Adversarial-pcg-SLM)** `fine tuning ` `Hugging face`  `sql` 
-In this framework, the SLM acts as the "Test Subject" or the "Navigational Agent." Instead of answering standard text-based trivia, the SLM is fed a procedurally generated 2D matrix (a maze) and asked to navigate from a start point (0,0) to an exit coordinate. Our objective is to rigorously test its spatial reasoning limits, map its topological failure points, and eventually use Chain-of-Thought (CoT) state-tracking and synthetic data to improve its navigational accuracy.
 
-**[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** — `C++` `Claude code` 
+
+**[Deep Packet Inspection Engine](https://github.com/ayanaaditya04-dot)** 
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
 
-**[VectorDB — Build a Vector Database from Scratch in C+](https://github.com/ayanaaditya04-dot/VectorDB-Build-a-Vector-Database-from-Scratch-in-C-)** — `C++` `Claude code` 
+**[VectorDB — Build a Vector Database from Scratch in C+](https://github.com/ayanaaditya04-dot/VectorDB-Build-a-Vector-Database-from-Scratch-in-C-)** 
 A fully working Vector Database built from scratch in C++ with a web UI.
 Implements HNSW, KD-Tree, and Brute Force search algorithms side-by-side, plus a RAG pipeline powered by a local LLM via Ollama.
 
-**[UPI Offline Mesh — Demo](https://github.com/ayanaaditya04-dot/UPI-Offline-Mesh-Demo)** — `C++` `Claude code` 
+**[UPI Offline Mesh — Demo](https://github.com/ayanaaditya04-dot/UPI-Offline-Mesh-Demo)** 
 Multi-threaded packet analysis engine with dynamic thread-pool load balancing.  
 → 10,000 pkts/sec · sub-2ms latency · 50+ concurrent TCP flows · ~30% fewer false positives via SNI filtering
+
+**[Adversarial-PCG-SLM: Spatial Reasoning Framework](https://github.com/ayanaaditya04-dot/Adversarial-pcg-SLM)** 
+In this framework, the SLM acts as the "Test Subject" or the "Navigational Agent." Instead of answering standard text-based trivia, the SLM is fed a procedurally generated 2D matrix (a maze) and asked to navigate from a start point (0,0) to an exit coordinate. Our objective is to rigorously test its spatial reasoning limits, map its topological failure points, and eventually use Chain-of-Thought (CoT) state-tracking and synthetic data to improve its navigational accuracy.
+
 
 
 ---
